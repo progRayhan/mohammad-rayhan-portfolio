@@ -24,10 +24,9 @@ export default function Hero() {
             <h1 className="text-6xl font-bold mb-4 text-foreground bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
               Backend Engineer
             </h1>
-            <p className="text-xl text-muted-foreground mb-2">Building scalable systems & distributed infrastructure</p>
+            {/* <p className="text-xl text-muted-foreground mb-2">Building scalable systems & distributed infrastructure</p> */}
             <p className="text-lg text-muted-foreground leading-relaxed">
-              I build robust, high-performance backend infrastructure. Specialized in cloud architecture, microservices,
-              and database optimization. Currently exploring distributed systems and DevOps.
+              Dedicated Backend Engineer with a strong focus on Python and secondary expertise in Go, specializing in designing and developing scalable, high-performance backend systems. Passionate about exploring new backend technologies and continuously improving system architecture and performance. Experienced in building RESTful APIs, integrating databases, and collaborating with cross-functional teams to deliver robust, production-ready solutions. Deeply committed to continuous learning and daily engineering practice to stay ahead in modern backend development.
             </p>
           </div>
         </div>
